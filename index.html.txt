@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>吴照祎</title>
+</head>
+<body>
+我叫吴照祎，前端新手。第一次登陆要有点啥。
+</body>
+</html>
+————————————————
+版权声明：本文为CSDN博主「吴照祎」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
